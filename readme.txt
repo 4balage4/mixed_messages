@@ -1,6 +1,7 @@
 # Mixed Messages - Javascript
 
-It was an excercise on codecademy front-end course. 
+small app, it was an excercise on codecademy front-end course. 
+
 
 Just click on the button 'generate' and will give you a message.
 
